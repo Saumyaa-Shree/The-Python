@@ -1,7 +1,7 @@
 # CREATES ASCII ART TEXT
 
 import pyfiglet
-result = pyfiglet.figlet_format("I LOVE YOU GULGUL")
+result = pyfiglet.figlet_format("WELCOME TO PYTHON")
 print(result)
 
 """ Applications- 1)to enhance user experience
